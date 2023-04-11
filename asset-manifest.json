@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-spaceX/static/css/main.2275f747.chunk.css",
-    "main.js": "/react-spaceX/static/js/main.c61cb51a.chunk.js",
-    "main.js.map": "/react-spaceX/static/js/main.c61cb51a.chunk.js.map",
-    "runtime-main.js": "/react-spaceX/static/js/runtime-main.78526cbc.js",
-    "runtime-main.js.map": "/react-spaceX/static/js/runtime-main.78526cbc.js.map",
-    "static/js/2.e71d3b1d.chunk.js": "/react-spaceX/static/js/2.e71d3b1d.chunk.js",
-    "static/js/2.e71d3b1d.chunk.js.map": "/react-spaceX/static/js/2.e71d3b1d.chunk.js.map",
-    "index.html": "/react-spaceX/index.html",
-    "precache-manifest.9fba2bb49a3814fa8379eb14f99f09e5.js": "/react-spaceX/precache-manifest.9fba2bb49a3814fa8379eb14f99f09e5.js",
-    "service-worker.js": "/react-spaceX/service-worker.js",
-    "static/css/main.2275f747.chunk.css.map": "/react-spaceX/static/css/main.2275f747.chunk.css.map",
-    "static/js/2.e71d3b1d.chunk.js.LICENSE.txt": "/react-spaceX/static/js/2.e71d3b1d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-spaceX/static/media/logo.d5ab31ce.svg"
+    "main.css": "/spaceX/static/css/main.2275f747.chunk.css",
+    "main.js": "/spaceX/static/js/main.c61cb51a.chunk.js",
+    "main.js.map": "/spaceX/static/js/main.c61cb51a.chunk.js.map",
+    "runtime-main.js": "/spaceX/static/js/runtime-main.bf6e654a.js",
+    "runtime-main.js.map": "/spaceX/static/js/runtime-main.bf6e654a.js.map",
+    "static/js/2.5fd2f97b.chunk.js": "/spaceX/static/js/2.5fd2f97b.chunk.js",
+    "static/js/2.5fd2f97b.chunk.js.map": "/spaceX/static/js/2.5fd2f97b.chunk.js.map",
+    "index.html": "/spaceX/index.html",
+    "precache-manifest.887e08dd721f2493dd344fd951fdae2e.js": "/spaceX/precache-manifest.887e08dd721f2493dd344fd951fdae2e.js",
+    "service-worker.js": "/spaceX/service-worker.js",
+    "static/css/main.2275f747.chunk.css.map": "/spaceX/static/css/main.2275f747.chunk.css.map",
+    "static/js/2.5fd2f97b.chunk.js.LICENSE.txt": "/spaceX/static/js/2.5fd2f97b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spaceX/static/media/logo.d5ab31ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78526cbc.js",
-    "static/js/2.e71d3b1d.chunk.js",
+    "static/js/runtime-main.bf6e654a.js",
+    "static/js/2.5fd2f97b.chunk.js",
     "static/css/main.2275f747.chunk.css",
     "static/js/main.c61cb51a.chunk.js"
   ]
