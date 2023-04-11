@@ -1,1 +1,1 @@
-https://sleychez.github.io/react-spaceX/
+https://sleychez.github.io/spaceX/
