@@ -10,7 +10,7 @@ const useCompany = () => {
     useEffect(() => {
         fetchData.getCompany()
             .then(company => setCompany(company));
-    })
+    }, [fetchData])
 
     return { company };
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route } from 'react-router-dom';
+import { HashRouter, Route} from 'react-router-dom';
 import './style.css';
 import Header from './components/Header';
 import Features from './components/Features';
@@ -12,7 +12,7 @@ const App = () => {
 
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Header />
 
       <Route 
@@ -32,7 +32,7 @@ const App = () => {
 
 
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
