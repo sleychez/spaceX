@@ -1,1 +1,1 @@
-https://sleychez.github.io/spaceX/
+Можно посмотеть сайт по ссылке: https://sleychez.github.io/spaceX/
